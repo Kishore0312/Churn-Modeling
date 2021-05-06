@@ -1,8 +1,9 @@
 # Churn-Modeling
 
 1. This project express the view on various machine learning models along with their classification report.
-2. It projects a clear view on each and evey model and also shows its accuracy.
-3. An EDA has also been shown.
+2. The dataset chosen is taken from kaggle "https://www.kaggle.com/shubh0799/churn-modelling ".
+3. It projects a clear view on each and evey model and also shows its accuracy.
+4. An EDA has also been shown.
 
 ### EDA is shown on several aspects
 
